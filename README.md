@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, I'm Adytia! 👋
 
-<!--
-**Dittoskala1/Dittoskala1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about technology, coding, and entrepreneurship. Here's a little about me:
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me:
+- 🎓 I’m currently studying in university Esa Unggul 
+- 🔍 Always eager to learn new technologies, solve problems, and collaborate on interesting projects.
+- 🌐 I’m open to collaborations on open-source projects or entrepreneurial ideas.
+- 🤷‍♂️ udah gitu aja
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack:
+- **Languages:** Python, Java, C++
+- **Tools & Frameworks:** Git, Docker, Cisco
+- **Databases:** MySQL
+- **Hobby:**Pro guitar  
+
+## 📫 Let's Connect:
+- GitHub: [@Dittoskala](https://github.com/Dittoskala)
+- Email: [Dittoskala1](mailto:adytiakusuma5@gmail.com)
+
+Feel free to explore my repositories and reach out if you want to chat about technology, entrepreneurship, or potential collaborations!
