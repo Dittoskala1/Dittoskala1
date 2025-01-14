@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Laravel, JavaFX**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dittoskala1](https://github.com/Dittoskala1)
+- 👨‍💻 All of my projects are available at https://github.com/Dittoskala1
 
 - 📫 How to reach me **adytiakusuma5@gmail.com**
 
