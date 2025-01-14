@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Ditto</h1>
 <h3 align="center">Active student at Esa Unggul University</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/2a/98/8e/2a988e1c2b54647c811171a28c6f933e.jpg">
+
 
 - 🌱 I’m currently learning **Laravel, JavaFX**
 
