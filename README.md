@@ -1,68 +1,59 @@
+<h1 align="center">
+  <img src="https://www.icegif.com/wp-content/uploads/2021/12/icegif-1720.gif" alt="Master Joker Animation" width="100%" />
+</h1>
+
 <h1 align="center">Hi 👋, I'm Ditto</h1>
-<h3 align="center">💻 Active Computer Science Student at Esa Unggul University</h3>
+<h3 align="center">Active student at Esa Unggul University</h3>
 
-<p align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2021/12/icegif-1720.gif" alt="Animated Joker" width="70%" />
-</p>
 
----
 
-- 🌱 Currently learning **Laravel** and **JavaFX**
-- 💼 Passionate about software development and problem solving
-- 📫 Reach me at: **adytiakusuma5@gmail.com**
-- 🌐 Portfolio & Projects: [github.com/Dittoskala1](https://github.com/Dittoskala1)
+- 🌱 I’m currently learning **Laravel, JavaFX**
 
----
+- 👨‍💻 All of my projects are available at https://github.com/Dittoskala1
 
-### 🔗 Connect With Me
+- 📫 How to reach me **adytiakusuma5@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/dittoskala" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/dittoskala" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dittoskala" height="30" width="40" />
   </a>
 </p>
 
----
-
-### 💼 Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" alt="Laravel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" height="40" alt="MariaDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+ <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dittoskala1&show_icons=true&locale=en&layout=compact" alt="dittoskala1" />
 </p>
 
----
 
-### 📈 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/Dittoskala1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dittoskala1&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dittoskala1&layout=compact&langs_count=8&theme=default&hide_border=false" />
-</a>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Dittoskala1&theme=default&hide_border=false" />
-
-</div>
-
----
-
-### 📌 Featured Projects
-
-- 🧾 **Majun Product Website** – Laravel-based product catalog for supplier company  
-- 🗃️ **Inventory System (JavaFX)** – Simple desktop CRUD app for stock control  
-- 👥 **Customer Data App** – Laravel + SQLite app for managing customer orders  
-- 🔐 **Laravel Login System** – Secure auth system with Laravel Breeze  
-
----
-
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dittoskala1" alt="dittoskala1" />
+</p>
